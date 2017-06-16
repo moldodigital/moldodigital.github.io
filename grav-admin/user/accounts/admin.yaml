@@ -1,0 +1,11 @@
+email: moldo.digital@gmail.com
+fullname: Mihai
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$LB9.7KwEF79GRC5.8eIoxOft0Ks.sByEn6m6RhOLVZ8dzuoUVo1GW
